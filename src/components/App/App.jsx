@@ -12,7 +12,6 @@ function App() {
     searchBy ? fieldName = "firstName" : fieldName = "lastName"
     setGroupedData(groupBy(fieldName, inputValue));
   }, [inputValue, searchBy]);
-  console.log(groupedData)
 
   return (
     <>

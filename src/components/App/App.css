@@ -11,6 +11,27 @@
   align-items: center;
 }
 
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.peopleContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.peopleGroup {
+  border: 2px solid #61dafbaa;
+  border-radius: 10px;
+  margin: 20px;
+  min-width: 8rem;
+  min-height: 10rem;
+}
+
 #firstNameButton {
   font-size: small;
   width: 7rem;
@@ -31,25 +52,4 @@
   border-radius: 5px;
   height: 30px;
   margin: 20px;
-}
-
-.formContainer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 3rem;
-}
-
-.peopleContainer {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.peopleGroup {
-  border: 2px solid #61dafbaa;
-  border-radius: 10px;
-  margin: 20px;
-  min-width: 8rem;
-  min-height: 10rem;
 }

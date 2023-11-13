@@ -45,7 +45,7 @@
 
 ![Map Filter Search Demo](./demo/demo.gif)
 
-In collaborating with my friend [Pete](https://github.com/Pete-Hall), I had the opportunity to learn more about how [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) works in JavaScript. I put together a little POC application to try and put to use what we learned.
+In collaboration with my friend [Pete](https://github.com/Pete-Hall), I had the opportunity to learn more about how [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) works in JavaScript. I put together a little POC application to try and put to use what we learned.
 
 This application has some [sample data](./data/sampleData.js) of persons in a database. Some have matching first or last names. Each group is stored as a key with the `fieldName` of "firstName" or "lastName". If you choose to search by first name, the keys shall look like:
 

@@ -3,13 +3,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/marc-mccarthy/map-filter-search">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Map Filter Search</h3>
 
   <p align="center">
-    Search by key for first or last name for persons in a database with [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) in JavaScript. Built with [Vite](https://vitejs.dev/).
+    Search by key for first or last name for persons in a database with Map in JavaScript. Built with Vite.
     <br />
     <a href="https://github.com/marc-mccarthy/map-filter-search"><strong>Explore the docs »</strong></a>
     <br />

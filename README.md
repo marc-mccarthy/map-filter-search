@@ -125,7 +125,7 @@ Conversely, if you decide to search by `Last Name`, the keys returned to you in 
     
     pnpm
     ```sh
-    npm run dev
+    pnpm run dev
     ```
 
 The UI should open in your default web browser to the correct URL. If not, open [localhost:5173](http://localhost:5173) in your web browser.
